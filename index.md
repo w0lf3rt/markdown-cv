@@ -17,12 +17,11 @@ Student, Software Engineer, Tech Enthusiast.
 
 Detail-oriented, organized, and analytical employee. Works at fast pace to meet tight deadlines. Enthusiastic team player ready to contribute to everyone's success.
 
-
 ## Career
 
 `11/22 - Current`
 __Internship Software Engineering__,
-<a href="https://finn.auto" target="_blank">FINN</a>, Dublin (remote)
+<a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Dublin (remote)
 
 - Development in an agile environment with close collaboration with colleagues and supervisors
 - Migrating an existing No-Code-Platform towards a robust, scalable and performant API Architecture written in TypeScript
@@ -31,7 +30,7 @@ __Internship Software Engineering__,
 <p class="paragraph"></p>
 
 `09/22 - 11/22`
-__Internship Sales Representative__, DataDyne Consulting, Dublin
+__Internship Sales Representative__, <a href="https://www.linkedin.com/company/datadyne-consulting/" target="_blank">DataDyne Consulting</a>, Dublin
 
 - Enforcing the sales team with lead generation
 - Contact new and existing customers to meet and exceed sales objectives
@@ -40,7 +39,7 @@ __Internship Sales Representative__, DataDyne Consulting, Dublin
 <p class="paragraph"></p>
 
 `03/22 - 09/22`
-__Working Student Full-Stack Software Engineer__, eMundo, Salzburg
+__Working Student Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
 
 - Implementation of features in client projects using a Development-Stack (Java, Springboot, ReactJS, Docker, Kubernetes)
 - Checking client code for bugs and weaknesses using approved troubleshooting methods
@@ -50,7 +49,7 @@ __Working Student Full-Stack Software Engineer__, eMundo, Salzburg
 
 
 `02/22 - 03/22`
-__Internship Full-Stack Software Engineer__, eMundo, Salzburg
+__Internship Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
 
 - Experiencing core characteristics of agile development
 - Assistance in ongoing projects
@@ -60,16 +59,15 @@ __Internship Full-Stack Software Engineer__, eMundo, Salzburg
 
 
 `06/21 - 02/22`
-__Medical Emergency Service__, Ambulanz Rosenheim, Flintsbach
+__Medical Emergency Service__, <a href="https://www.linkedin.com/company/ambulanz-rosenheim-gmbh/" target="_blank">Ambulanz Rosenheim</a>, Flintsbach
 
 - Response to emergency calls
 - Assuring availability of medicine and maintenance of medical technology
 
 <p class="paragraph"></p>
 
-
 `09/18 - 09/20`
-__Emergency Medical Technician__, Bavarian Red Cross, Burghausen
+__Emergency Medical Technician__, <a href="https://www.linkedin.com/company/brk-bayerisches-rotes-kreuz/" target="_blank">Bavarian Red Cross</a>, Burghausen
 
 - Response to life-threatening emergency calls where teamwork and clear communication is top priority
 - Strengthened guidance abilities as responsible team leader for non-life-threatening but critical medical transports
