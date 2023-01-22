@@ -205,4 +205,11 @@ strong {
     page-break-before: always;
 }
 
+.item {
+    color: black;
 
+}
+
+.item:hover {
+    color: #bc412b;
+}

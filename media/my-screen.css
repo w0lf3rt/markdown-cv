@@ -209,6 +209,15 @@ strong {
 	-moz-columns: 2;
 }
 
+.item {
+    color: black;
+
+}
+
+.item:hover {
+    color: #bc412b;
+}
+
 
 
 
