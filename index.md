@@ -1,15 +1,14 @@
 ---
 layout: cv
-title: Manuel Maier
-icon: 👨‍💻
+title: Rebecca Wolfert
+icon: 👨‍👋
 ---
-# Manuel Maier
-Student, Software Engineer, Tech Enthusiast.
+# Rebecca Wolfert
+I'm a Slogan
 
 <div id="webaddress">
-<a href="mailto:mail@maiermanuel.de" target="_blank">mail@maiermanuel.de</a>
-| <a href="https://manuelmaier.site" target="_blank">Website</a> | 
-<a href="https://www.linkedin.com/in/hi-its-manuel/?locale=en_US" target="_blank">LinkedIn</a>
+<a href="mailto:rebeccawolfert@gmail.com" target="_blank">rebeccawolfert@gmail.com</a>
+| <a href="https://www.linkedin.com/in/rebecca-wolfert/" target="_blank">LinkedIn</a>
 </div>
 
 
@@ -19,75 +18,75 @@ Detail-oriented, organized, and analytical employee. Works at fast pace to meet 
 
 ## Career
 
-`11/22 - Current`
-__Internship Software Engineering__,
-<a href="https://www.linkedin.com/company/finn-auto/mycompany/" target="_blank">FINN</a>, Dublin (remote)
+`12/22 - Current`
+__Mercedes-Benz Job Title__,
+<a href="https://www.linkedin.com/company/mercedes-benz_ag/" target="_blank">Mercedes-Benz</a>, Dublin (remote)
 
-- Development in an agile environment with close collaboration with colleagues and supervisors
-- Migrating an existing No-Code-Platform towards a robust, scalable and performant API Architecture written in TypeScript
-- Prioritize initiatives to be implemented in a rapidly growing startup
+- This is a description
 
 <p class="paragraph"></p>
 
-`09/22 - 11/22`
-__Internship Sales Representative__, <a href="https://www.linkedin.com/company/datadyne-consulting/" target="_blank">DataDyne Consulting</a>, Dublin
+`01/22 - 09/22`
+__Psychologische Beraterin__, <a href="https://www.linkedin.com/company/caritas/" target="_blank">Caritas</a>, Freilassing
 
-- Enforcing the sales team with lead generation
-- Contact new and existing customers to meet and exceed sales objectives
-- Close collaboration with marketing team on lead generation initiatives
-
-<p class="paragraph"></p>
-
-`03/22 - 09/22`
-__Working Student Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
-
-- Implementation of features in client projects using a Development-Stack (Java, Springboot, ReactJS, Docker, Kubernetes)
-- Checking client code for bugs and weaknesses using approved troubleshooting methods
-- Partnering with development team on product development, application support plans and prototype programs
+- Systemisch orientierte Beratung von geflüchteten Menschen zu asyl- und migrationsspezifischen Themen
+- Unterstützung, Organisation und Vermittlung bei Behördenangelegenheiten
+- Dokumentation und Verwaltung von Beratungstätigkeiten mittels einer Klientenverwaltungssoftware
 
 <p class="paragraph"></p>
 
+`05/22 - 06/22`
+__Wissenschaftliche Mitarbeiterin__, <a href="https://www.linkedin.com/school/paris-lodron-universitaet-salzburg/" target="_blank">Paris Lodron Universität Salzburg</a>, Salzburg
 
-`02/22 - 03/22`
-__Internship Full-Stack Software Engineer__, <a href="https://www.linkedin.com/company/emundo-gmbh/" target="_blank">eMundo</a>, Salzburg
-
-- Experiencing core characteristics of agile development
-- Assistance in ongoing projects
-- Proactive working style due to remote work
+- Rekrutierung von Studienteilnehmer:innen (persönlich und über soziale Medien)
+- Durchführung und Aufsicht der Studieninhalte als Testleitung
+- Datensammlung und -pflege, Mitarbeit bei Laboranalysen (Pipettieren, Zentrifugieren)
 
 <p class="paragraph"></p>
 
 
-`06/21 - 02/22`
-__Medical Emergency Service__, <a href="https://www.linkedin.com/company/ambulanz-rosenheim-gmbh/" target="_blank">Ambulanz Rosenheim</a>, Flintsbach
+`05/21 - 10/21`
+__Praktikum Psychologische Beraterin__, <a href="https://www.linkedin.com/company/caritas/" target="_blank">Caritas</a>, Freilassing
 
-- Response to emergency calls
-- Assuring availability of medicine and maintenance of medical technology
+- Unterstützung in die systemischen asyl- und migrationsberatung
+- Einblicke in diverse Bereiche der Caritas-Beratungszentren
+- Aneignung von rechtlichem Grundlagenwissen zu Beratungszwecken
+
+<p class="paragraph"></p>
+
+
+`08/20 - 12/21`
+__Fahrdienst im ärztlichen Bereitschaftsdienst__, <a href="https://www.linkedin.com/company/ambulanz-rosenheim-gmbh/" target="_blank">Ambulanz Rosenheim</a>, Flintsbach
+
+- Unterstützende Zusammenarbeit mit dem diensthabenden Arzt/der diensthabenden Ärztin
+- Gewährleistung und Instandhaltung der medizinischen Geräte
 
 <p class="paragraph"></p>
 
 `09/18 - 09/20`
-__Emergency Medical Technician__, <a href="https://www.linkedin.com/company/brk-bayerisches-rotes-kreuz/" target="_blank">Bavarian Red Cross</a>, Burghausen
+__Bundesfreiwilligendienst Rettungsdienst__, <a href="https://www.linkedin.com/company/brk-bayerisches-rotes-kreuz/" target="_blank">Bayerisches Rotes Kreuz</a>, Waldkraiburg
 
-- Response to life-threatening emergency calls where teamwork and clear communication is top priority
-- Strengthened guidance abilities as responsible team leader for non-life-threatening but critical medical transports
+- Durchführung von Krankentransporten
+- Einsatz in der präklinischen Notfallrettung
 
 <p class="paragraph"></p>
 
 
 ## Education
 
-`10/20 - Current`
-__Business Information Systems (B.Sc.)__ Technical University of applied Sciences Rosenheim
+`09/22 - Current`
+__Master of Science Psychologie__ Trinity College Dublin
 
 - Grade average __1.7__ 
 
 <p class="paragraph"></p>
 
+`10/19 - 08/22`
+__Bachelor of Science Psychologie__ Paris Lodron Universität Salzburg
 
-`09/15 - 07/17`
-__A-Levels__ Specialised Secondary School, Altoetting
+- Grade average __1.7__ 
 
+<p class="paragraph"></p>
 
 
 <h2 class="pageBreak">Skills</h2>
