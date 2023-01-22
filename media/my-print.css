@@ -201,4 +201,8 @@ strong {
 	-moz-columns: 2;
 }
 
+.pageBreak {
+    page-break-before: always;
+}
+
 

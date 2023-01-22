@@ -92,24 +92,26 @@ __A-Levels__ Specialised Secondary School, Altoetting
 
 
 
-## Skills
+<h2 class="pageBreak">Skills</h2>
 
 <ul class="skills">
-<li><strong>Java</strong></li>
-<li><strong>Javascript / Typescript</strong></li>
-<li><strong>Docker</strong></li>
-<li><strong>C#</strong></li>
-<li><strong>Python</strong></li>
-<li><strong>SQL</strong></li>
-<li><strong>R</strong></li>
-<li><strong>Networking</strong></li>
+<li style="color:Black"><strong>Java</strong></li>
+<li style="color:Black"><strong>Javascript / Typescript</strong></li>
+<li style="color:Black"><strong>Docker</strong></li>
+<li style="color:Black"><strong>C#</strong></li>
+<li style="color:Black"><strong>Python</strong></li>
+<li style="color:Black"><strong>SQL</strong></li>
+<li style="color:Black"><strong>R</strong></li>
+<li style="color:Black"><strong>Networking</strong></li>
 </ul>
 
 
 ## Languages
 
-- **German** (native)
-- **English** (C1)
+<ul class="skills">
+<li style="color:Black"><strong>German</strong> (native)</li>
+<li style="color:Black"><strong>English</strong> (C1)</li>
+</ul>
 
 ## While I'm not working
 
