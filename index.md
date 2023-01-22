@@ -1,7 +1,7 @@
 ---
 layout: cv
 title: Rebecca Wolfert
-icon: 👨‍👋
+icon: 👋
 ---
 # Rebecca Wolfert
 I'm a Slogan
