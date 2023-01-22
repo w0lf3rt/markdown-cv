@@ -1,0 +1,8 @@
+- **Java**
+- **Javascript / Typescript**
+- **Docker**
+- **C#**
+- **Python**
+- **SQL**
+- **R**
+- **Networking**
